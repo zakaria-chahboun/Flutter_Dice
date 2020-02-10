@@ -1,3 +1,8 @@
 # First App
  my first simple example
- dice game ^^
+ **dice game ^^**
+
+
+screenshot
+
+<img src='/screensot.png' alt='screenshot'>
